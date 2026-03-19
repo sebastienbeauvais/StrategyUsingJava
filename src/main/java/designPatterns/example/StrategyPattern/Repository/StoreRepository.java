@@ -1,5 +1,5 @@
 package designPatterns.example.StrategyPattern.Repository;
 
-public class StoreRepository {
+public class StoreRepository{
     
 }
